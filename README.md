@@ -1,4 +1,4 @@
-<h5 align="left">👋 Hi, I’m Akash Upadhyay<br>🎓 B.Tech student – IIT (BHU), Varanasi<br>🤖 Passionate about Data Science,  Machine Learning, NLP, and AI-driven systems<br>🚀 Love turning data into intelligent solutions that are scalable and impactful<br>🌱 Always curious, absolute learner — exploring the future of AI & innovation</h5>
+<h5 align="center">👋 Hi, I’m Akash Upadhyay<br>🎓 B.Tech student – IIT (BHU), Varanasi<br>🤖 Passionate about Data Science,  Machine Learning, NLP, and AI-driven systems<br>🚀 Love turning data into intelligent solutions that are scalable and impactful<br>🌱 Always curious, absolute learner — exploring the future of AI & innovation</h5>
 
 ###
 
@@ -63,11 +63,11 @@
 
 ###
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AkUp007/AkUp007/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AkUp007/AkUp007/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AkUp007/AkUp007/output/pacman-contribution-graph.svg">
-</picture>
+</picture> -->
 
 ###
 
